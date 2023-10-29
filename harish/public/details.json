@@ -1,0 +1,31 @@
+{
+   "details": [
+    {
+        "Name":"Manisha",
+        "email":"mahi@gmail.com",
+        "password":"123456",
+        "Age":"22",
+        "Gender":"Female",
+        "MobileNo":"9390803987",
+        "Role":"Admin"
+    },
+    {
+        "Name":"Maha",
+        "email":"maha@gmail.com",
+        "password":"123456",
+        "Age":"22",
+        "Gender":"Female",
+        "MobileNo":"000000000",
+        "Role":"Patient"
+    },
+    {
+        "Name":"Mani",
+        "email":"mani@gmail.com",
+        "Mobile":"123456",
+        "Age":"22",
+        "Gender":"Female",
+        "MobileNo":"111111111",
+        "Role":"Nurse"
+    }
+]
+}
